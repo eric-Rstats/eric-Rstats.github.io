@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2018%2F01%2F21%2Ftest%2F</url>
+    <content type="text"><![CDATA[机器学习之路 这篇blog是拿来测试markdown的各个功能 列表 list 1 list 2 list2.1 list2.2: 加粗字体 数学公式$$f(x)=x^2$$ $$\sum_{i=1}^Na_i=100, \mbox{中文}$$ 图片 代码块12345678910import numpy as npimport pandas as pdimport tensorflow as tffoo = function(x): if(x&lt;1): print('小于1') else: print('大于等于1')]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F01%2F21%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
